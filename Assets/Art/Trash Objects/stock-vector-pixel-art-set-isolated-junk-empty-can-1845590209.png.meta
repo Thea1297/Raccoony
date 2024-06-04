@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: 4f719a5f9c42ab1498f5a4f3a60ddd0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1578
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8adc1f8f5654c4f8423346ced11007
+      internalID: 1381361295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 850
+        width: 562
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf51da3f7712c946b10a47d38379aab
+      internalID: 1162041145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1594
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079caf1bf6837f24289206b4feee7794
+      internalID: -29771406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1581
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba235cadc6e5349bf5a90166775087
+      internalID: -659999339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1581
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb170c556cf42042987086c7b4eec15
+      internalID: 312396508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_5
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1571
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b139d12806a2e4499e053f94c50736e
+      internalID: -301001146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 424
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722451439b7f244e92f3e4564e4a400
+      internalID: -1556069295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_7
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1420
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ca400d81ff644b8f23ba2960ca32e
+      internalID: 724014100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1419
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bfd5e8599ecda4b8bbcd4570702217
+      internalID: -648531880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_9
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1429
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb42d302f09704e9da1a57068d8625
+      internalID: 405848347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 750
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093d5cca935ce54e9ba0eee037489cc
+      internalID: 1687233176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 847
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb042073dbd840147bc7df63a80268b9
+      internalID: 1089393923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 793
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27883ec75e55640b6a81c9f1e32b5f
+      internalID: 1053479249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 801
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38551e6532fe5b41897f6336f5a6e82
+      internalID: 1777266805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 811
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a5e0e8e7d3fc142944683157204dac
+      internalID: -627299427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 816
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ed563c45ae874e9163e5ce2da9af5
+      internalID: -438009665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 813
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6d14993449f72419eef60c6e937206
+      internalID: -564806201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 817
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458719fb7a7ad84592273b0caac46d1
+      internalID: 1509597212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 831
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d46e5f94c57b36418037cd268ed9a93
+      internalID: -747858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 826
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e232ebad0e004db5504356b0f9771
+      internalID: -1085970575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 844
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b53ecedacb5743ba42382a74782f6
+      internalID: -1058976410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 847
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff4af815176a9479393b99f2143d48
+      internalID: -560437365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 837
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b7a3ffe99de74692de42035d6af5d
+      internalID: -1697747206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 843
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027afbc8c548d849b943908ee27cee7
+      internalID: -778788301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 840
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7b98609e63a140942d285f0336f23
+      internalID: 628509666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 836
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96a4bf38b2923429275ebb1563e45f
+      internalID: -546916567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 844
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20594a0a1c5994687f1b852f593405
+      internalID: 1075749315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 750
+        width: 767
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31891eb054bca49a3d7bb0e79de692
+      internalID: 1532575971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_28
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 848
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e838bffa63bf48b44afe4c77a59656b9
+      internalID: -210640882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_29
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 837
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b168530d4be49e346b0ad158f404e491
+      internalID: -10949558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_30
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 735
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73412c9500043242a77f647b05d9563
+      internalID: 1150855997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 750
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab9d05bb2c83f43b8fc5342cfb8405
+      internalID: 1026154208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_32
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 751
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb0430238d6bf44995adc06ebc5632f
+      internalID: 1445113375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_33
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 753
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d98763bb8326fa488b7ee1100c2198a
+      internalID: -409779426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 845
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44254544e420240bf53f9f98e5f982
+      internalID: 743000361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_35
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 833
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d36f5ffc8a55784482bd6667b04bf08
+      internalID: -1418948981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_36
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 870
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b66f35a9b5bed4e89b37cc3a5da2fa
+      internalID: 1884816816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_37
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 745
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19913689ee5ae6642a2bd213d54ddcf3
+      internalID: -1377851924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 719
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802f66413a29ce47bcfdf8d3bd18981
+      internalID: -1812753430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_39
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 720
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88cd249a5b68ac4f87df96482a98d2e
+      internalID: -429998000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_40
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 727
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae5f808f6ed2849be5515b676f3e35
+      internalID: -1740740461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 280
+        width: 722
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45be0453520f734cb0e1d63e86b448f
+      internalID: 1142186360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_42
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 715
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f71b8a7fb13d47ad32a51cc3331ec
+      internalID: 627407013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_43
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 707
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b547be267d36b644092fdb0455f9dc92
+      internalID: 278091789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_44
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 715
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12765294fa8382a4cb6694172c4b1ab2
+      internalID: 1619342124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_45
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 236
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce078f1b6b91c41b0c1051f7198e45
+      internalID: -2111351412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_46
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 233
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdfc7e1c52cc064293d6c899d85fabf
+      internalID: 1555010172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_47
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 253
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76805f2ba8630af43b5d5ac0ed585e42
+      internalID: 811299880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_48
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aae7e5c96144ef4e932389d0d1cc29f
+      internalID: -809066574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_49
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 242
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489b36a0459e2e4dab0cd29057c6741
+      internalID: 1429461455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc14c0edb977947812c473e5fb1cd1
+      internalID: -951742290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_0: 1381361295
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_1: 1162041145
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_10: 1687233176
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_11: 1089393923
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_12: 1053479249
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_13: 1777266805
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_14: -627299427
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_15: -438009665
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_16: -564806201
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_17: 1509597212
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_18: -747858986
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_19: -1085970575
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_2: -29771406
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_20: -1058976410
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_21: -560437365
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_22: -1697747206
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_23: -778788301
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_24: 628509666
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_25: -546916567
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_26: 1075749315
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_27: 1532575971
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_28: -210640882
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_29: -10949558
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_3: -659999339
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_30: 1150855997
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_31: 1026154208
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_32: 1445113375
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_33: -409779426
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_34: 743000361
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_35: -1418948981
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_36: 1884816816
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_37: -1377851924
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_38: -1812753430
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_39: -429998000
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_4: 312396508
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_40: -1740740461
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_41: 1142186360
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_42: 627407013
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_43: 278091789
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_44: 1619342124
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_45: -2111351412
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_46: 1555010172
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_47: 811299880
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_48: -809066574
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_49: 1429461455
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_5: -301001146
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_50: -951742290
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_6: -1556069295
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_7: 724014100
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_8: -648531880
+      stock-vector-pixel-art-set-isolated-junk-empty-can-1845590209_9: 405848347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
