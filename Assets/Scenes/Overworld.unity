@@ -3671,7 +3671,7 @@ PrefabInstance:
       objectReference: {fileID: 4487938531895129777, guid: a212690059d27614a92b05914541b597, type: 3}
     - target: {fileID: 574269806373797931, guid: 96126e974bb2dad43bb34efddc7050fb, type: 3}
       propertyPath: sceneToLoad
-      value: Dungeon
+      value: Tower
       objectReference: {fileID: 0}
     - target: {fileID: 574269806373797931, guid: 96126e974bb2dad43bb34efddc7050fb, type: 3}
       propertyPath: fadeOutPanel
@@ -32228,8 +32228,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -23.999996, y: -47.999992}
+  m_AnchoredPosition: {x: 16, y: 11}
+  m_SizeDelta: {x: -217.8181, y: -218.9124}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &592409519
 MonoBehaviour:
@@ -41593,7 +41593,7 @@ MonoBehaviour:
   m_CellSize: {x: 70, y: 70}
   m_Spacing: {x: 10, y: 10}
   m_Constraint: 1
-  m_ConstraintCount: 4
+  m_ConstraintCount: 6
 --- !u!114 &1169087653
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41649,8 +41649,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -42.58087, y: -14.55603}
-  m_SizeDelta: {x: 85.16107, y: 40.17314}
+  m_AnchoredPosition: {x: -78.701, y: -22}
+  m_SizeDelta: {x: 157.4025, y: 70.1269}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1182046559
 MonoBehaviour:
@@ -42474,8 +42474,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.48517, y: 3.524}
+  m_SizeDelta: {x: 200.97, y: 57.0479}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1252879206
 MonoBehaviour:
@@ -48119,8 +48119,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -12.052, y: 156.7553}
-  m_SizeDelta: {x: -72.058, y: 288.4852}
+  m_AnchoredPosition: {x: -4.3494873, y: 120.23801}
+  m_SizeDelta: {x: -56.653, y: 158.0985}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1367603439
 MonoBehaviour:
@@ -107149,8 +107149,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 28
+  m_fontSizeBase: 28
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -110301,7 +110301,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1125199862, guid: e528c6682fe0e1d4fbae5568ac9a4f2b, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -112640,6 +112640,10 @@ PrefabInstance:
     - target: {fileID: 1859008729416284032, guid: d2f57db474158424a940082e56d0219a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -16.0566
+      objectReference: {fileID: 0}
+    - target: {fileID: 3472086796264471306, guid: d2f57db474158424a940082e56d0219a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3757864913798116849, guid: d2f57db474158424a940082e56d0219a, type: 3}
       propertyPath: m_AnchorMax.x

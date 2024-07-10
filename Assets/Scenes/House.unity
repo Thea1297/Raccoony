@@ -9041,6 +9041,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4487938531895129777, guid: a212690059d27614a92b05914541b597, type: 3}
     - target: {fileID: 574269806373797931, guid: 96126e974bb2dad43bb34efddc7050fb, type: 3}
+      propertyPath: sceneToLoad
+      value: Overworld
+      objectReference: {fileID: 0}
+    - target: {fileID: 574269806373797931, guid: 96126e974bb2dad43bb34efddc7050fb, type: 3}
       propertyPath: fadeOutPanel
       value: 
       objectReference: {fileID: 732147876575174609, guid: 42112bdde65b8014f9797d50123334cb, type: 3}
