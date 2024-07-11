@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//https://www.youtube.com/watch?v=B9ZyZaoIpdc&list=PL6bqhqO0Ba776ksb3F9P_xmUMT9WvmfFT&index=50&ab_channel=BrahimAbdelmoumene
 public class QuestItem : MonoBehaviour
 {
     public int questNum;
