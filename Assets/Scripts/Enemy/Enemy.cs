@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//controls enemy
 public enum EnemyState
 {
     idle, 
