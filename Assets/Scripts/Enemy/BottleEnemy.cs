@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//this is enemy that represents melee enemy
 public class BottleEnemy : Log
 { 
 
